@@ -1,4 +1,4 @@
-# 💳 Credit Default Risk Prediction Pipeline
+# 💳 Credit Default Risk Prediction Model
 
 An advanced machine learning classification pipeline to forecast client loan default risks using the Kaggle Home Credit Default Risk dataset and a high-performing gradient-boosting ensemble. 
 
